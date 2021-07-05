@@ -7,9 +7,9 @@ The purpose of this Excel VBA code exercise is to refactor a given code solution
 
 ## Results
 
-The original code was modified to loop through all the data one time, using an index variable to process array values as shown in this [side by side comparison]().
+The original code was modified to loop through all the data one time, using an index variable to process array values as shown in this [side by side comparison](https://github.com/serpaulus/VBA_Challenge/blob/main/Side_by_Side_Code_Comparison.pdf).
 
-After refactoring the code we ran at significantly different execution times for avaliable data sheets [2017]() and [2018]().
+After refactoring the code we ran at significantly different execution times for avaliable data sheets [2017](https://github.com/serpaulus/VBA_Challenge/blob/main/VBA_Challenge_2017.PNG) and [2018](https://github.com/serpaulus/VBA_Challenge/blob/main/VBA_Challenge_2018.PNG).
 
 Comparing the time results, we can clearly see that refactoring the code significantly the reduces data processing time by over half in both sheets.   
 
