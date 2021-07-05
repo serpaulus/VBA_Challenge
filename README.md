@@ -17,4 +17,4 @@ Comparing the time results, we can clearly see that refactoring the code signifi
 
 This exercise clearly shows how proper code structure and function utilization can significantly increase application performance. 
 
-The original code, although easier to understand and write, more than doubles the processing times. The refactoring process although challenging will likely show it’s worth, especially when processing larger amounts of data.    
+The original code, although easier to understand and write, has a much longer processing time. The refactoring process although challenging will likely show it’s worth, especially when processing larger amounts of data.    
